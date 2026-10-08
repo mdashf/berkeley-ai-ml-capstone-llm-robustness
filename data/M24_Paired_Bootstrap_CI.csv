@@ -1,0 +1,17 @@
+model,condition,delta_pp,ci_low_pp,ci_high_pp
+Gemini,paraphrase,0.0,0.0,0.0
+Gemini,formatting,-1.0,-3.0,0.0
+Gemini,instruction_position,0.0,0.0,0.0
+Gemini,irrelevant_context,0.0,0.0,0.0
+Qwen,paraphrase,-1.0,-3.0,0.0
+Qwen,formatting,-2.0,-5.0,0.0
+Qwen,instruction_position,0.0,0.0,0.0
+Qwen,irrelevant_context,0.0,0.0,0.0
+GPT-OSS-20B,paraphrase,-2.0,-5.0,0.0
+GPT-OSS-20B,formatting,0.0,0.0,0.0
+GPT-OSS-20B,instruction_position,0.0,0.0,0.0
+GPT-OSS-20B,irrelevant_context,0.0,0.0,0.0
+GPT-OSS-120B,paraphrase,1.0,0.0,3.0
+GPT-OSS-120B,formatting,0.0,0.0,0.0
+GPT-OSS-120B,instruction_position,1.0,0.0,3.0
+GPT-OSS-120B,irrelevant_context,1.0,0.0,3.0
